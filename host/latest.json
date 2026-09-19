@@ -1,0 +1,13 @@
+{
+  "product": "counteriq",
+  "channel": "stable",
+  "package_type": "host",
+  "version": "1.0.9",
+  "mandatory": false,
+  "minimum_supported_version": "1.0.0",
+  "download_url": "https://example.com/placeholder.exe",
+  "sha256": "PLACEHOLDER",
+  "release_notes": [
+    "Initial automatic update configuration"
+  ]
+}
