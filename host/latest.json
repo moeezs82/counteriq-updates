@@ -6,7 +6,7 @@
   "mandatory": false,
   "minimum_supported_version": "1.0.0",
   "download_url": "https://example.com/placeholder.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "sha256": "BC656780D82362220AC81EE593CD502144DA36D9A2FC40E92193F0876C0F2B23",
   "release_notes": [
     "Initial automatic update configuration"
   ]
