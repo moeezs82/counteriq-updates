@@ -2,7 +2,7 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "mandatory": false,
   "minimum_supported_version": "1.0.0",
   "download_url": "https://example.com/placeholder.exe",
