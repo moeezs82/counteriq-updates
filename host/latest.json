@@ -2,11 +2,11 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "mandatory": false,
   "minimum_supported_version": "1.0.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.0.11/CounterIQ-Host-Setup-1.0.11.exe",
-  "sha256": "69550AFF515090F82112D00461ECD546F9CF411D814D35A56573378C8AE20E40",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.0.12/CounterIQ-Host-Setup-1.0.12.exe",
+  "sha256": "78A68A9F082F01B2280ABFD6E25C8FE3DD94E54520E1990BEB296626DB3CD20C",
   "release_notes": [
     "Automatic update test release"
   ]
