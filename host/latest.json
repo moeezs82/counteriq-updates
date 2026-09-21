@@ -6,7 +6,7 @@
   "mandatory": false,
   "minimum_supported_version": "1.0.0",
   "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.0/CounterIQ-Host-Setup-1.1.0.exe",
-  "sha256": "8D7DF930FF744790C593A260F38B0532E6E61A10E2CBC2278BF3578B46A4947A",
+  "sha256": "BEBC0858810EA5E6A5210979973197E16472EE5FEDEC98986186ACF569E803DF",
   "release_notes": [
     "Automatic update test release"
   ]
