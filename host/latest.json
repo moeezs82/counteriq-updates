@@ -2,12 +2,12 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "mandatory": false,
   "minimum_supported_version": "1.0.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.0/CounterIQ-Host-Setup-1.1.0.exe",
-  "sha256": "BEBC0858810EA5E6A5210979973197E16472EE5FEDEC98986186ACF569E803DF",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.1/CounterIQ-Host-Setup-1.1.1.exe",
+  "sha256": "9B611D2E50340A94C9113231B3F0900D54E7867C4F137626A39D2B992927D62A",
   "release_notes": [
-    "Automatic update test release"
+    "Fix whatsapp send invoice on save only buttion"
   ]
 }
