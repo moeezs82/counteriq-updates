@@ -2,13 +2,14 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "mandatory": false,
-  "minimum_supported_version": "1.0.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.3/CounterIQ-Host-Setup-1.1.3.exe",
-  "sha256": "1E43122ACFADE7613F40788A19F8B6176BB3B850588D3F8A9CB871A31A0E908C",
+  "minimum_supported_version": "1.1.0",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.4/CounterIQ-Host-Setup-1.1.4.exe",
+  "sha256": "A54281EC80E87E2A4D9EF4281BF070563460DEEC76137536EC961CF7A4F5F453",
   "release_notes": [
     "money finder intelligence added",
-    "new theme"
+    "new theme",
+    "performance fix"
   ]
 }
