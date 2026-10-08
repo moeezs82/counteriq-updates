@@ -2,12 +2,13 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "mandatory": false,
   "minimum_supported_version": "1.1.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.5/CounterIQ-Host-Setup-1.1.5.exe",
-  "sha256": "CCF485EBB5A30C66DB70DAED3ADE5E56F9A807B8022FF8927EA0FD8577CCE852",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.6/CounterIQ-Host-Setup-1.1.6.exe",
+  "sha256": "9E6674884E243ACAE95BB1A11AD034C451A028CBD68F06AAD62986D6186AE239",
   "release_notes": [
-    "logout message fix from subscription"
+    "added filters in product grid",
+    "whatsapp button inside sale details"
   ]
 }
