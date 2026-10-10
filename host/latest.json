@@ -6,7 +6,7 @@
   "mandatory": false,
   "minimum_supported_version": "1.1.0",
   "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.0/CounterIQ-Host-Setup-1.2.0.exe",
-  "sha256": "15DC0C6286A5BFD1FDE0CADE6325B16651E95A02E764EBE5494C06715EDE1097",
+  "sha256": "5D1EFC718E10DD02A3325A9E1E5791C4387ADC411BC53FB656765793CF43C531",
   "release_notes": [
     "enhance filter in product grid",
     "preview in sale create",
