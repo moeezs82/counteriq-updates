@@ -2,13 +2,14 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "mandatory": false,
   "minimum_supported_version": "1.1.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.1.6/CounterIQ-Host-Setup-1.1.6.exe",
-  "sha256": "9E6674884E243ACAE95BB1A11AD034C451A028CBD68F06AAD62986D6186AE239",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.0/CounterIQ-Host-Setup-1.2.0.exe",
+  "sha256": "15DC0C6286A5BFD1FDE0CADE6325B16651E95A02E764EBE5494C06715EDE1097",
   "release_notes": [
-    "added filters in product grid",
-    "whatsapp button inside sale details"
+    "enhance filter in product grid",
+    "preview in sale create",
+    "barcode printer support zpl and tspl"
   ]
 }
