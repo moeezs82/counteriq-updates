@@ -2,15 +2,14 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "mandatory": false,
   "minimum_supported_version": "1.2.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.2/CounterIQ-Host-Setup-1.2.2.exe",
-  "sha256": "4B61F676CD43ACACBDC1E86927804212C8B0012308113204A850E78F5D39D190",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.3/CounterIQ-Host-Setup-1.2.3.exe",
+  "sha256": "C8D034CB27E0C385F284FA5C628FD793BCFA0BAD3641F8FCF50DDF152F5E564C",
   "release_notes": [
-    "optimized sale create preview",
-    "discount set on invoice",
-    "thank you tab line removed from inovoice",
-    "barcode label size set to max 10mm"
+    "barcode printer setting update to use custom style instead of barcode",
+    "dashboard refresh set",
+    "sale screen product listing scrollable"
   ]
 }
