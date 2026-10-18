@@ -2,14 +2,12 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "mandatory": false,
   "minimum_supported_version": "1.2.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.3/CounterIQ-Host-Setup-1.2.3.exe",
-  "sha256": "C8D034CB27E0C385F284FA5C628FD793BCFA0BAD3641F8FCF50DDF152F5E564C",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.4/CounterIQ-Host-Setup-1.2.4.exe",
+  "sha256": "EE2E0FDC4A91DF4C99760F6854A1F33C68694E11994B4388C83EE5661A373E1E",
   "release_notes": [
-    "barcode printer setting update to use custom style instead of barcode",
-    "dashboard refresh set",
-    "sale screen product listing scrollable"
+    "accounting updates"
   ]
 }
