@@ -2,12 +2,12 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "mandatory": false,
   "minimum_supported_version": "1.2.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.4/CounterIQ-Host-Setup-1.2.4.exe",
-  "sha256": "EE2E0FDC4A91DF4C99760F6854A1F33C68694E11994B4388C83EE5661A373E1E",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.6/CounterIQ-Host-Setup-1.2.6.exe",
+  "sha256": "C15A487CDE6E18079CD1F9B47448C8F2820F33B0CF41A3A3F7C12C4863EBD5C9",
   "release_notes": [
-    "accounting updates"
+    "added date is party payment"
   ]
 }
