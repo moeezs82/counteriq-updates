@@ -2,12 +2,13 @@
   "product": "counteriq",
   "channel": "stable",
   "package_type": "host",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "mandatory": false,
   "minimum_supported_version": "1.2.0",
-  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.7/CounterIQ-Host-Setup-1.2.7.exe",
-  "sha256": "E73D17C8DBFD08B0377A7591E8F66BAE3B6BDFA740CF946C7126D37BF81E9811",
+  "download_url": "https://github.com/moeezs82/counteriq-updates/releases/download/v1.2.8/CounterIQ-Host-Setup-1.2.8.exe",
+  "sha256": "EEDF760525669E0E1D866084FA382AACCCD02B32876942914490621617DB167F",
   "release_notes": [
-    "added date is party payment"
+    "customer create shortcut in sale",
+    "whatsapp auto open"
   ]
 }
